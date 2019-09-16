@@ -4,7 +4,7 @@
 package Java02;
 
 /**
- * 0-2 四則演算を行う
+ *  0-2 四則演算を行う
  */
 public class JavaSampleCode02 {
 

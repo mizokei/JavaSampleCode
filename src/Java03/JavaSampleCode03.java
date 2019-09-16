@@ -4,7 +4,7 @@
 package Java03;
 
 /**
- * 0-3 少数を計算する
+ *  0-3 少数を計算する
  */
 public class JavaSampleCode03 {
 
