@@ -10,19 +10,19 @@ public class JavaSampleCode12 {
 
     public static void main(String[] args) {
         
-        //足し算の結果を変数tashi_sanに入れる
+        //足し算の数式を変数tashi_sanに入れる
         int tashi_san = 19+14;
         
-        //引き算の結果を変数hiki_sanに入れる
+        //引き算の数式を変数hiki_sanに入れる
         int hiki_san = 25-13;
         
-        //掛け算の結果を変数kake_sanに入れる
+        //掛け算の数式を変数kake_sanに入れる
         int kake_san = 54*2;
         
-        //割り算の結果を変数wari_sanに入れる
+        //割り算の数式を変数wari_sanに入れる
         int wari_san = 24/3;
         
-        //割った余りの結果を変数amariに入れる
+        //割った余りを計算する数式を変数amariに入れる
         int amari = 18%4;
         
         //足し算を表示する
